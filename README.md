@@ -1,6 +1,6 @@
 # Space Shooter Game 🚀
 
-[![Build Status](https://github.com/DhruvPatel/Space-Shooter-Game/actions/workflows/ci.yml/badge.svg)](https://github.com/DhruvPatel/Space-Shooter-Game/actions)
+[![Build Status](https://github.com/dhruvpatel59/Space-Shooter-Guardian/actions/workflows/ci.yml/badge.svg)](https://github.com/dhruvpatel59/Space-Shooter-Guardian/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)](https://apple.com/ios)
@@ -43,8 +43,8 @@ An adrenaline-pumping, high-octane space shooter game built for iOS using Swift 
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DhruvPatel/Space-Shooter-Game.git
-   cd Space-Shooter-Game
+   git clone https://github.com/dhruvpatel59/Space-Shooter-Guardian.git
+   cd Space-Shooter-Guardian
    ```
 2. **Open the project:**
    ```bash
