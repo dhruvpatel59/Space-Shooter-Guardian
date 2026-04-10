@@ -22,16 +22,6 @@ An adrenaline-pumping, high-octane space shooter game built for iOS using Swift 
 
 ---
 
-## 📸 Screenshots & Demos
-
-| Main Menu | Gameplay | Game Over |
-| :---: | :---: | :---: |
-| ![Main Menu](https://via.placeholder.com/200x400?text=Main+Menu) | ![Gameplay](https://via.placeholder.com/200x400?text=Gameplay+GIF) | ![Game Over](https://via.placeholder.com/200x400?text=Game+Over) |
-
-> [!TIP]
-> Check out the [Video Demo](https://youtube.com/link_to_your_video) to see the game in action!
-
----
 
 ## 🛠️ Installation
 
