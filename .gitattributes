@@ -1,0 +1,20 @@
+# Standard line endings
+* text=auto
+
+# Ensure Swift files have LF line endings
+*.swift text eol=lf
+*.h text eol=lf
+*.m text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.xcassets/** binary
+*.appiconset/** binary
+*.imageset/** binary
+
+# Xcode project files
+*.xcodeproj/** -text
+*.xcworkspace/** -text

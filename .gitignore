@@ -1,0 +1,74 @@
+# Xcode
+#
+# gitignore contributors: scroll through to find your relevant section
+#
+# Reference: https://github.com/github/gitignore/blob/main/Swift.gitignore
+
+## Build results
+build/
+DerivedData/
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Swift Package Manager
+.build/
+
+## Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+## Bundle usage
+.bundle/
+vendor/bundle/
+
+## Ruby/Gem
+Gemfile.lock
+
+## CocoaPods
+#
+# We recommend against committing the Pods directory to your repository.
+# However, if you'd like to include setup-and-run support, feel free to uncomment the Pods/ line.
+# Pods/
+
+## Carthage
+Carthage/Build/
+
+## AccuRev
+.accurev/
+
+## AppCode
+.idea/
+
+## Localization
+*.swp
+*.lock
+*~.nib
+
+## macOS
+.DS_Store
