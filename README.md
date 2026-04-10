@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Dhruv Patel - [LinkedIn](https://www.linkedin.com/in/dhruvpatel59/)
 
-Project Link: [https://github.com/DhruvPatel/Space-Shooter-Game](https://github.com/DhruvPatel/Space-Shooter-Game)
+Project Link: [https://github.com/dhruvpatel59/Space-Shooter-Game](https://github.com/dhruvpatel59/Space-Shooter-Guardian)
 
 ---
 
