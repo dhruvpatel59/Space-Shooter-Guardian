@@ -88,7 +88,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Dhruv Patel - [LinkedIn](https://linkedin.com/in/dhruvpatel) - [Your Email]
+Dhruv Patel - [LinkedIn](https://www.linkedin.com/in/dhruvpatel59/)
 
 Project Link: [https://github.com/DhruvPatel/Space-Shooter-Game](https://github.com/DhruvPatel/Space-Shooter-Game)
 
